@@ -1,9 +1,9 @@
 # Hola! Soy Ayrton Da Silva 👋
 
-## **Sobre mi**:
+### **Sobre mi**:
 Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Videojuegos. Actualmente estoy buscando mi primera experiencia laboral como desarrollador Front-end. Me considero una persona muy apasionada por el ámbito de la programación, y que posee la capacidad de aprender muy rápido
 
-## **Conocimientos técnicos**:
+### **Conocimientos técnicos**:
 - HTML
 - CSS
 - Bootstrap
