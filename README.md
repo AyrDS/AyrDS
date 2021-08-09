@@ -24,7 +24,7 @@ Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Vide
 
 - ***Administrador de pacientes***
   - [Repositorio](https://github.com/AyrDS/AdministradorPacientes)
-  - Demo de [AdministradorPacientes](administradorpaciente.netlify.app)
+  - Demo de [AdministradorPacientes](https://administradorpaciente.netlify.app/)
   - ***Descripción:*** Simulador para poder administrar los turnos de los pacientes en consultorio médico.
 
 <!--
