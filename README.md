@@ -25,7 +25,7 @@ Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Vide
 - ***Administrador de pacientes***
   - [Repositorio](https://github.com/AyrDS/AdministradorPacientes)
   - Demo de [AdministradorPacientes](https://administradorpaciente.netlify.app/)
-  - ***Descripción:*** Simulador para poder administrar los turnos de los pacientes en consultorio médico.
+  - ***Descripción:*** Simulador para poder administrar los turnos de los pacientes en consultorio médico, cuyos datos se guardan en IndexedDB.
 
 <!--
 **AyrDS/AyrDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
