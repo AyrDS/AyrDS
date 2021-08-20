@@ -32,9 +32,9 @@ Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Vide
   - ***Descripción:*** Simulador para poder administrar los turnos de los pacientes en consultorio médico, cuyos datos se guardan en IndexedDB.
 
 -***Buscador de películas***
-  -[Repositorio](https://github.com/AyrDS/buscadorPeliculas)
-  -Demo de [Buscador de Películas](https://simbuscadorpeliculas.netlify.app)
-  -***Descripción:*** Simulador de buscador de películas realizado con la API de [OMD](https://www.omdbapi.com/).
+  - [Repositorio](https://github.com/AyrDS/buscadorPeliculas)
+  - Demo de [Buscador de Películas](https://simbuscadorpeliculas.netlify.app)
+  - ***Descripción:*** Simulador de buscador de películas realizado con la API de [OMD](https://www.omdbapi.com/).
 
 <!--
 **AyrDS/AyrDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
