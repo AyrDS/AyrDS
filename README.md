@@ -31,7 +31,7 @@ Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Vide
   - Demo de [AdministradorPacientes](https://administradorpaciente.netlify.app/)
   - ***Descripción:*** Simulador para poder administrar los turnos de los pacientes en consultorio médico, cuyos datos se guardan en IndexedDB.
 
--***Buscador de películas***
+- ***Buscador de películas***
   - [Repositorio](https://github.com/AyrDS/buscadorPeliculas)
   - Demo de [Buscador de Películas](https://simbuscadorpeliculas.netlify.app)
   - ***Descripción:*** Simulador de buscador de películas realizado con la API de [OMD](https://www.omdbapi.com/).
