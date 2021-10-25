@@ -1,7 +1,7 @@
 # Hola! Soy Ayrton Da Silva 👋
 
 ### **Sobre mi**:
-Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Videojuegos. Actualmente estoy buscando mi primera experiencia laboral como desarrollador Front-end. Me considero una persona muy apasionada por el ámbito de la programación, y que posee la capacidad de aprender muy rápido
+Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Videojuegos. Actualmente soy programador en 5SEIS. Me considero una persona muy apasionada por el ámbito de la programación, y que posee la capacidad de aprender muy rápido
 
 ### **Conocimientos técnicos**:
 - HTML
@@ -36,17 +36,3 @@ Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Vide
   - Demo de [Buscador de Películas](https://simbuscadorpeliculas.netlify.app)
   - ***Descripción:*** Simulador de buscador de películas realizado con la API de [OMD](https://www.omdbapi.com/).
 
-<!--
-**AyrDS/AyrDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
