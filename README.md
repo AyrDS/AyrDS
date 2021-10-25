@@ -10,6 +10,7 @@ Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Vide
 - SASS
 - Jquery
 - JavaScript
+- ReactJS
 
 ### **Redes**:
 - [Portfolio](https://ayrds.netlify.app/)
