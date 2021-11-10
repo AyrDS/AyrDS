@@ -40,4 +40,4 @@ Tengo 23 años, soy estudiante de desarrollo web Full Stack y Desarrollo de Vide
 - ***Argensteam con React***
   - [Repositorio](https://github.com/AyrDS/reactCoder)
   - De [Argensteam con React](https://ayrds.github.io/reactCoder/#/)
-  - **Descripción:** Simulador de e-commerce realizado con React y con base de datos en Firebase
+  - **Descripción:** Simulador de e-commerce realizado con React y con base de datos en Firebase y autenticación de usuarios
