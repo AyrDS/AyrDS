@@ -11,6 +11,8 @@ Tengo 23 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - Jquery
 - JavaScript
 - ReactJS
+- Socket IO
+- TypeScript
 
 ### **Redes**:
 - [Portfolio](https://ayrds.netlify.app/)
