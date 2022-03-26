@@ -1,7 +1,7 @@
 # Hola! Soy Ayrton Da Silva 👋
 
 ### **Sobre mi**:
-Tengo 23 años, soy desarrollador Front-end y mi proximo objetivo es convertirme en desarrollador MERN. Actualmente soy programador en 5SEIS. Me considero una persona muy apasionada por el ámbito de la programación, y que posee la capacidad de aprender muy rápido
+Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme en desarrollador MERN. Actualmente soy programador en 5SEIS. Me considero una persona muy apasionada por el ámbito de la programación, y que posee la capacidad de aprender muy rápido
 
 ### **Conocimientos técnicos**:
 - HTML
