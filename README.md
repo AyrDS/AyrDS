@@ -14,6 +14,7 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - Socket IO
 - TypeScript
 - Node.JS
+- Firebase
 
 ### **Redes**:
 - [Portfolio](https://ayrds.netlify.app/)
