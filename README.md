@@ -13,6 +13,7 @@ Tengo 23 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - ReactJS
 - Socket IO
 - TypeScript
+- Node.JS
 
 ### **Redes**:
 - [Portfolio](https://ayrds.netlify.app/)
@@ -43,3 +44,6 @@ Tengo 23 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
   - [Repositorio](https://github.com/AyrDS/reactCoder)
   - De [Argensteam con React](https://ayrds.github.io/reactCoder/#/)
   - **Descripción:** Simulador de e-commerce realizado con React y con base de datos en Firebase y autenticación de usuarios
+- ***Checklist con Node***
+  - [Repositorio](https://github.com/AyrDS/checkList---Nodejs)
+  - Es una aplicación de consola realizada en Node.JS donde se realiza un CRUD de todas las tareas hechas o que faltan hacer.
