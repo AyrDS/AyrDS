@@ -48,3 +48,6 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - ***Checklist con Node***
   - [Repositorio](https://github.com/AyrDS/checkList---Nodejs)
   - Es una aplicación de consola realizada en Node.JS donde se realiza un CRUD de todas las tareas hechas o que faltan hacer.
+- ***Location and weather***
+  - [Repositorio](https://github.com/AyrDS/location-and-weather-node)
+  - Aplicación de consola realizada en Node.js, cuya función es buscar la ciudad que introduce el usuario y luego mostrarle información del clima de la misma, utilizando las api de Mapbox y Openweather.
