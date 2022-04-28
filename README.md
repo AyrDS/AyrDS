@@ -51,3 +51,7 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - ***Location and weather***
   - [Repositorio](https://github.com/AyrDS/location-and-weather-node)
   - Aplicación de consola realizada en Node.js, cuya función es buscar la ciudad que introduce el usuario y luego mostrarle información del clima de la misma, utilizando las api de Mapbox y Openweather.
+
+- ***Journal App***
+  - [Repositorio](https://github.com/AyrDS/journal-app)
+  - Proyecto realizado con React-Redux y Firebase. Creación de notas por días, con posibilidad de carga de imagenes.
