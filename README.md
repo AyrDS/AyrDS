@@ -26,7 +26,7 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
   - [Repositorio](https://github.com/AyrDS/calendar-mern)
   - Proyecto realizado con React-Redux, Node.js, Express y MongoDB. 
   - Aplicación de calendario, cuya función es guardar los eventos en el mismo.
-  - [Link al sitio](https://calendar-ayrds.herokuapp.com/login)
+  - [Link al sitio](https://calendar-ayrds.herokuapp.com/)
 
 - ***Journal App***
   - [Repositorio](https://github.com/AyrDS/journal-app)
