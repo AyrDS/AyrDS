@@ -21,6 +21,11 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - [Linkedin](https://www.linkedin.com/in/ayrds/)
 
 ### Proyectos:
+- ***Calendar MERN***
+  - [Repositorio](https://github.com/AyrDS/calendar-mern)
+  - Proyecto realizado con React-Redux, Node.js, Express y MongoDB. 
+  - Aplicación de calendario, cuya función es guardar los eventos en el mismo y ver los eventos guardados por otros usuarios
+
 - ***Journal App***
   - [Repositorio](https://github.com/AyrDS/journal-app)
   - Proyecto realizado con React-Redux y Firebase. Creación de notas por días, con posibilidad de carga de imagenes.
