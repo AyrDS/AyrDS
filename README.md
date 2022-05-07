@@ -28,6 +28,13 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
   - [Repositorio](https://github.com/AyrDS/reactCoder)
   - De [Argensteam con React](https://ayrds.github.io/reactCoder/#/)
   - **Descripción:** Simulador de e-commerce realizado con React y con base de datos en Firebase y autenticación de usuarios
+- ***Checklist con Node***
+  - [Repositorio](https://github.com/AyrDS/checkList---Nodejs)
+  - Es una aplicación de consola realizada en Node.JS donde se realiza un CRUD de todas las tareas hechas o que faltan hacer.
+- ***Location and weather***
+  - [Repositorio](https://github.com/AyrDS/location-and-weather-node)
+  - Aplicación de consola realizada en Node.js, cuya función es buscar la ciudad que introduce el usuario y luego mostrarle información del clima de la misma, utilizando las api de Mapbox y Openweather.
+
 - ***Piltri Sustentable***
   - [Repositorio](https://github.com/AyrDS/piltri)
   - Demo de [Piltri Sustentable](https://piltrisustentable.netlify.app)
@@ -48,12 +55,3 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
   - Demo de [Buscador de Películas](https://simbuscadorpeliculas.netlify.app)
   - ***Descripción:*** Simulador de buscador de películas realizado con la API de [OMD](https://www.omdbapi.com/).
   
-
-- ***Checklist con Node***
-  - [Repositorio](https://github.com/AyrDS/checkList---Nodejs)
-  - Es una aplicación de consola realizada en Node.JS donde se realiza un CRUD de todas las tareas hechas o que faltan hacer.
-- ***Location and weather***
-  - [Repositorio](https://github.com/AyrDS/location-and-weather-node)
-  - Aplicación de consola realizada en Node.js, cuya función es buscar la ciudad que introduce el usuario y luego mostrarle información del clima de la misma, utilizando las api de Mapbox y Openweather.
-
-
