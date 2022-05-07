@@ -8,12 +8,13 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - CSS
 - Bootstrap
 - SASS
-- Jquery
 - JavaScript
 - ReactJS
 - Socket IO
 - TypeScript
 - Node.JS
+- Express
+- MongoDB
 - Firebase
 
 ### **Redes**:
