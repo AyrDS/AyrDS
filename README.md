@@ -18,7 +18,7 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - Firebase
 
 ### **Redes**:
-- [Portfolio](https://ayrds.netlify.app/)  (Desactualizado - En progreso de uno nuevo...)
+- [Portfolio](https://ayrds.netlify.app/)
 - [Linkedin](https://www.linkedin.com/in/ayrds/)
 
 ### Proyectos:
