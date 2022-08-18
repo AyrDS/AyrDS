@@ -16,6 +16,7 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - Express
 - MongoDB
 - Firebase
+- Redux
 
 ### **Redes**:
 - [Portfolio](https://ayrds.netlify.app/)
