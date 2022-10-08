@@ -31,5 +31,8 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - ***Journal App***
   - [Repositorio](https://github.com/AyrDS/journal-app)
   - Proyecto realizado con React-Redux y Firebase. Creación de notas por días, con posibilidad de carga de imagenes.
+- ***Currency Convert***
+  - [Repositorio](https://github.com/AyrDS/currency-converter)
+  - Proyecto realizado con React TS. Conversión de divisas atraves de la API [vatcomply](https://www.vatcomply.com/documentation).
   
 ### [Mira todos mis proyectos aquí](https://github.com/AyrDS?tab=repositories)
