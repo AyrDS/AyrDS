@@ -23,6 +23,11 @@ Tengo 24 años, soy desarrollador Front-end y mi proximo objetivo es convertirme
 - [Linkedin](https://www.linkedin.com/in/ayrds/)
 
 ### Proyectos destacados:
+- ***Ayrds-Chat***
+  - [Repositorio Front-end](https://github.com/AyrDS/ayrds-chat)
+  - [Repositorio Back-end](https://github.com/AyrDS/ayrds-chat-bd)
+  - Aplicación realizada con React, Node, Mongo DB y Socket.io. Cada usuario puede crear su sesión e integrarse a la app donde apareceran todos los usuarios registrados en la misma. Pueden entablar una conversación en tiempo real.
+  - [Link al sitio](https://ayrds-chat.netlify.app/#/auth/login)
 - ***Calendar MERN***
   - [Repositorio](https://github.com/AyrDS/calendar-mern)
   - Proyecto realizado con React-Redux, Node.js, Express y MongoDB. 
